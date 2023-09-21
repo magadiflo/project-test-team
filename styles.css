@@ -1,3 +1,10 @@
+/* Estilos globales*/
+* {
+	font-size: 16px;
+	box-sizing: border-box;
+}
+
+/* estilos personalizados*/
 body {
 	background-color: #8eb883;
 	color: #170d3b;
