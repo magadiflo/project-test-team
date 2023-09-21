@@ -1,4 +1,16 @@
 body {
-	background-color: red;
-	color: #FFF;
+	background-color: #8eb883;
+	color: #170d3b;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+	width: 900px;
+	font-size: 25px;
+}
+
+footer {
+	font-size: 12px;
+	background-color: violet;
+	color: blue;
 }
